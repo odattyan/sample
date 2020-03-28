@@ -1,5 +1,5 @@
 def hello
-  p "hello, pp."
+  p "hello, GitHub."
 end
 
 hello
